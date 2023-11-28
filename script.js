@@ -9,7 +9,7 @@ let buttonsDisabled = false; // Flag to keep track of button disablement
 
 yesBtn.addEventListener("click", () => {
   if (!buttonsDisabled) {
-    question.innerHTML = "Yay, see you on the 18th!";
+    question.innerHTML = "LESSGOO see you at 7 at rsi ;)";
     gif.src = "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
     btnGroup.style.display = "none"; // Hides the button group
     buttonsDisabled = true; // Disables button functionality
