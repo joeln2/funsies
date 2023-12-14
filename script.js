@@ -6,7 +6,7 @@ const noBtn = document.querySelector('.no-btn');
 
 yesBtn.addEventListener('click', () => {
   question.innerHTML = 'AWWWW i knew you loved me sethu. n e ways see you on new years';
-  gif.src = 'https://media.tenor.com/VBKt3ZgNpzsAAAAM/chica-fnaf.gif';
+  gif.src = 'https://media.tenor.com/ZiUz11TtBAwAAAAM/chica-rizz-screaming.giff';
   yesBtn.style.display = 'none';
   noBtn.style.display = 'none';
 });
