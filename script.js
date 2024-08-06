@@ -5,7 +5,7 @@ const yesBtn = document.querySelector('.yes-btn');
 const noBtn = document.querySelector('.no-btn');
 
 yesBtn.addEventListener('click', () => {
-  question.innerHTML = 'AWWWW i knew you loved me sethu. Anyways see you on new years <3';
+  question.innerHTML = 'AWWWW i knew you loved me. Anyways see you on new years <3';
   gif.src = 'https://media.tenor.com/ZiUz11TtBAwAAAAM/chica-rizz-screaming.giff';
   yesBtn.style.display = 'none';
   noBtn.style.display = 'none';
